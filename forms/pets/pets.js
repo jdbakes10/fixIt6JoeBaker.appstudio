@@ -37,7 +37,7 @@ console.log(petNames)
 let allPets = [petNames.push('Ted', 'Fred', 'Jed', 'Ned', 'Ed', 'Zed')]
 
 console.log(allPets)
-//Remaining Data
+//Remaining
 
 let stringPets = ['Bob', 'Sam', 'Andy']
 
